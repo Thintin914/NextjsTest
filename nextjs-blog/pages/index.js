@@ -11,7 +11,7 @@ export default function Home() {
         name="description"
         content="Check out iPhone 12 XR Pro and iPhone 12 Pro Max. Visit your local store and for expert advice."
         />
-        <meta property="image" content={'https://inanin.com/mainwebsite/php/uploads/aboutus.jpg'} />
+        <meta name="image" content={'https://inanin.com/mainwebsite/php/uploads/aboutus.jpg'} />
       </Head>
 
       <main>
